@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\PO.Test\\PO.Test.csproj": {}
+    "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\PO.Test\\PO.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\PO.Test\\PO.Test.csproj": {
+    "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\PO.Test\\PO.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\PO.Test\\PO.Test.csproj",
+        "projectUniqueName": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\PO.Test\\PO.Test.csproj",
         "projectName": "PO.Test",
-        "projectPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\PO.Test\\PO.Test.csproj",
-        "packagesPath": "C:\\Users\\Jarenasd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\PO.Test\\obj\\",
+        "projectPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\PO.Test\\PO.Test.csproj",
+        "packagesPath": "C:\\Users\\jarenasd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\PO.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jarenasd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jarenasd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Api\\POS.Api.csproj": {
-                "projectPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Api\\POS.Api.csproj"
+              "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Api\\POS.Api.csproj": {
+                "projectPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Api\\POS.Api.csproj"
               }
             }
           }
@@ -77,21 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Api\\POS.Api.csproj": {
+    "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Api\\POS.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Api\\POS.Api.csproj",
+        "projectUniqueName": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Api\\POS.Api.csproj",
         "projectName": "POS.Api",
-        "projectPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Api\\POS.Api.csproj",
-        "packagesPath": "C:\\Users\\Jarenasd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Api\\obj\\",
+        "projectPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Api\\POS.Api.csproj",
+        "packagesPath": "C:\\Users\\jarenasd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jarenasd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jarenasd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,14 +105,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Application\\POS.Application.csproj": {
-                "projectPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Application\\POS.Application.csproj"
+              "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Application\\POS.Application.csproj": {
+                "projectPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Application\\POS.Application.csproj"
               },
-              "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj"
+              "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Infrastructure\\POS.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Infrastructure\\POS.Infrastructure.csproj"
               },
-              "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Utilities\\POS.Utilities.csproj": {
-                "projectPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Utilities\\POS.Utilities.csproj"
+              "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Utilities\\POS.Utilities.csproj": {
+                "projectPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Utilities\\POS.Utilities.csproj"
               }
             }
           }
@@ -157,21 +157,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Application\\POS.Application.csproj": {
+    "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Application\\POS.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Application\\POS.Application.csproj",
+        "projectUniqueName": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Application\\POS.Application.csproj",
         "projectName": "POS.Application",
-        "projectPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Application\\POS.Application.csproj",
-        "packagesPath": "C:\\Users\\Jarenasd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Application\\obj\\",
+        "projectPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Application\\POS.Application.csproj",
+        "packagesPath": "C:\\Users\\jarenasd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jarenasd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jarenasd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -185,14 +185,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Domain\\POS.Domain.csproj": {
-                "projectPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Domain\\POS.Domain.csproj"
+              "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Domain\\POS.Domain.csproj": {
+                "projectPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Domain\\POS.Domain.csproj"
               },
-              "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj"
+              "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Infrastructure\\POS.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Infrastructure\\POS.Infrastructure.csproj"
               },
-              "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Utilities\\POS.Utilities.csproj": {
-                "projectPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Utilities\\POS.Utilities.csproj"
+              "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Utilities\\POS.Utilities.csproj": {
+                "projectPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Utilities\\POS.Utilities.csproj"
               }
             }
           }
@@ -240,21 +240,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Domain\\POS.Domain.csproj": {
+    "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Domain\\POS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Domain\\POS.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Domain\\POS.Domain.csproj",
         "projectName": "POS.Domain",
-        "projectPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Domain\\POS.Domain.csproj",
-        "packagesPath": "C:\\Users\\Jarenasd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Domain\\obj\\",
+        "projectPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Domain\\POS.Domain.csproj",
+        "packagesPath": "C:\\Users\\jarenasd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jarenasd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jarenasd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -307,21 +307,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj": {
+    "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Infrastructure\\POS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Infrastructure\\POS.Infrastructure.csproj",
         "projectName": "POS.Infrastructure",
-        "projectPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Infrastructure\\POS.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Jarenasd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Infrastructure\\POS.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\jarenasd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jarenasd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jarenasd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -335,11 +335,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Domain\\POS.Domain.csproj": {
-                "projectPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Domain\\POS.Domain.csproj"
+              "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Domain\\POS.Domain.csproj": {
+                "projectPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Domain\\POS.Domain.csproj"
               },
-              "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Utilities\\POS.Utilities.csproj": {
-                "projectPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Utilities\\POS.Utilities.csproj"
+              "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Utilities\\POS.Utilities.csproj": {
+                "projectPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Utilities\\POS.Utilities.csproj"
               }
             }
           }
@@ -375,21 +375,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Utilities\\POS.Utilities.csproj": {
+    "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Utilities\\POS.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Utilities\\POS.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Utilities\\POS.Utilities.csproj",
         "projectName": "POS.Utilities",
-        "projectPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Utilities\\POS.Utilities.csproj",
-        "packagesPath": "C:\\Users\\Jarenasd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jarenasd\\Documents\\Own projects\\sales-system\\POS\\POS.Utilities\\obj\\",
+        "projectPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Utilities\\POS.Utilities.csproj",
+        "packagesPath": "C:\\Users\\jarenasd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jarenasd\\Desktop\\juanPablo\\sales-system\\POS.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jarenasd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jarenasd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -430,7 +430,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -26,3 +26,17 @@ C:\Users\Jarenasd\Documents\Own projects\sales-system\POS\POS.Domain\obj\Debug\n
 C:\Users\Jarenasd\Documents\Own projects\sales-system\POS\POS.Domain\obj\Debug\net6.0\POS.Domain.pdb
 C:\Users\Jarenasd\Documents\Own projects\sales-system\POS\POS.Domain\obj\Debug\net6.0\POS.Domain.genruntimeconfig.cache
 C:\Users\Jarenasd\Documents\Own projects\sales-system\POS\POS.Domain\obj\Debug\net6.0\ref\POS.Domain.dll
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Domain\bin\Debug\net6.0\POS.Domain.deps.json
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Domain\bin\Debug\net6.0\POS.Domain.runtimeconfig.json
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Domain\bin\Debug\net6.0\POS.Domain.dll
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Domain\bin\Debug\net6.0\POS.Domain.pdb
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Domain\obj\Debug\net6.0\POS.Domain.csproj.AssemblyReference.cache
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Domain\obj\Debug\net6.0\POS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Domain\obj\Debug\net6.0\POS.Domain.AssemblyInfoInputs.cache
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Domain\obj\Debug\net6.0\POS.Domain.AssemblyInfo.cs
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Domain\obj\Debug\net6.0\POS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Domain\obj\Debug\net6.0\POS.Domain.dll
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Domain\obj\Debug\net6.0\refint\POS.Domain.dll
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Domain\obj\Debug\net6.0\POS.Domain.pdb
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Domain\obj\Debug\net6.0\POS.Domain.genruntimeconfig.cache
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Domain\obj\Debug\net6.0\ref\POS.Domain.dll

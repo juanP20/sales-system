@@ -32,3 +32,20 @@ C:\Users\Jarenasd\Documents\Own projects\sales-system\POS\POS.Infrastructure\obj
 C:\Users\Jarenasd\Documents\Own projects\sales-system\POS\POS.Infrastructure\obj\Debug\net6.0\refint\POS.Infrastructure.dll
 C:\Users\Jarenasd\Documents\Own projects\sales-system\POS\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.pdb
 C:\Users\Jarenasd\Documents\Own projects\sales-system\POS\POS.Infrastructure\obj\Debug\net6.0\ref\POS.Infrastructure.dll
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\bin\Debug\net6.0\POS.Infrastructure.deps.json
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\bin\Debug\net6.0\POS.Infrastructure.dll
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\bin\Debug\net6.0\POS.Infrastructure.pdb
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\bin\Debug\net6.0\POS.Domain.dll
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\bin\Debug\net6.0\POS.Utilities.dll
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\bin\Debug\net6.0\POS.Domain.pdb
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\bin\Debug\net6.0\POS.Utilities.pdb
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.AssemblyInfo.cs
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.csproj.CopyComplete
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.dll
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\obj\Debug\net6.0\refint\POS.Infrastructure.dll
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.pdb
+C:\Users\jarenasd\Desktop\juanPablo\sales-system\POS.Infrastructure\obj\Debug\net6.0\ref\POS.Infrastructure.dll
